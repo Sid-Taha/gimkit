@@ -1,4 +1,4 @@
-import { Outfit, Roboto, Inter  } from "next/font/google";
+import { Roboto, Inter  } from "next/font/google";
 import Image from "next/image";
 
 const font = Roboto({ subsets: ["latin"] });
